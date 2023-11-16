@@ -16,12 +16,11 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Tableau_Software_Logo.png" alt="Tableau" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.png" alt="PowerBI" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_PowerApps_logo.svg" alt="PowerApps" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/PowerBI_logo.svg" alt="PowerBI" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Microsoft_PowerApps_icon.svg" alt="PowerApps" height="50"/>
 </div>
  
 ## Badges
