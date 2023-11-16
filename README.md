@@ -14,7 +14,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/2560px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cartoon_Microsoft_Azure_Logo_%28old%29.png" alt="Azure" height="50"/>
+  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Tableau_Software_Logo.png" alt="Tableau" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="50"/>
