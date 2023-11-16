@@ -26,9 +26,9 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pufffss&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pufffss)
-## 🌐 Connect with Me
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddhesh-fuladi-514a65236/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/siddheshfuladi/)
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddheshfuladi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-fuladi-514a65236/) 
  
 Feel free to explore my repositories, and don't hesitate to reach out!
