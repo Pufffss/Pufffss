@@ -20,7 +20,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/131px-Java_programming_language_logo.svg.png" alt="Java" height="50"/>
   <img src="https://img.icons8.com/color/452/power-bi.png" alt="PowerBI" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Microsoft_PowerApps_2016_Logo.svg" alt="PowerApps" height="50"/>
+  <img src="https://img.icons8.com/color/452/microsoft-power-platform.png" alt="PowerApps" height="50"/>
 </div>
  
 ## Badges
