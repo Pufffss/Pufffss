@@ -9,7 +9,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 - 💡 I'm interested in problem solving and data science.
  
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=machinelearning,c,cpp,css,html,java,js,latex,py,r,aws,azure,docker,bootstrap,flask,react,figma,git,matlab,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,py,ai,selenium,r,aws,azure,docker,bootstrap,flask,react,figma,git,matlab,mysql)](https://skillicons.dev)
 
  
 ## Badges
