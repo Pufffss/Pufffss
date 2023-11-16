@@ -29,32 +29,16 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
  
 ## 📊 GitHub Stats
  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=himakshi2209&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/himakshi2209)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pufffss&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/Pufffss)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himakshi2209&layout=compact&theme=radical)](https://github.com/himakshi2209)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pufffss&layout=compact&theme=radical)](https://github.com/Pufffss)
  
-![Profile Views](https://komarev.com/ghpvc/?username=himakshi2209)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himakshi2209&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Pufffss)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pufffss&theme=radical)
  
 ## 🌐 Connect with Me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/himakshi-chaturvedi-928370223)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/himakshiiii_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddhesh-fuladi-514a65236/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/siddheshfuladi/)
  
 Feel free to explore my repositories, and don't hesitate to reach out!
- 
- 
-<!--
-**himakshi2209/himakshi2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
