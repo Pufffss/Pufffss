@@ -12,7 +12,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 ## 🚀 Quick Overview
  
 - 👨‍💻 I'm currently working on my web development skills.
-- 🌱 I'm an AI/ML enthusiast
+- 🌱 I'm proficient in Machine Learning
 - 💡 I'm interested in problem solving and data science.
  
 ## 🛠️ Skills
