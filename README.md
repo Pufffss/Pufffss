@@ -31,9 +31,9 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pufffss&layout=compact&theme=radical)](https://github.com/Pufffss)
  
-![Profile Views](https://komarev.com/ghpvc/?username=Pufffss)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pufffss&theme=radical)
- 
+![Profile Views](https://komarev.com/ghpvc/?username=Pufffss)
 ## 🌐 Connect with Me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/siddhesh-fuladi-514a65236/)
